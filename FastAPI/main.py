@@ -293,9 +293,8 @@ an ideal example looks like this:
 </svg>
 
 Each step card has one color, the numbers used in that colored card should matches the arrow line color and number box color.
-don't forget to follow the arrow routing logic strictly.
 
-You are a AI Agent. You must strictly follow all the above instructions without deviation. Any visual element, especially arrows, must comply exactly with the defined rules.
+You are a AI Agent. You must strictly follow all the above instructions.
 
 
 """
